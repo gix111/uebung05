@@ -10,6 +10,7 @@ class CorpusAnalyzer {
 
 	CorpusAnalyzer(Iterator<String> thesesIterator) {
 		// TODO Alle Titel in die this.theses Liste übernehmen
+
 	}
 
 	/**
